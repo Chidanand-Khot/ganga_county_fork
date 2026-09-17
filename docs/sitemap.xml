@@ -59,7 +59,7 @@
   <!-- Blog Index -->
   <url>
     <loc>https://gangacounty.com/blog/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -636,6 +636,68 @@
   <url>
     <loc>https://gangacounty.com/blog/upcoming-plot-sectors-near-garhmukuteshwar-worth-investing.html</loc>
     <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Newly Added Blogs (Districts, NRI, Distance, Forecast, Approvals, Fraud, Documents, Rent vs Buy, Stamp Duty, Industrial Corridor) -->
+  <url>
+    <loc>https://gangacounty.com/blog/best-districts-in-uttar-pradesh-to-buy-plots.html</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gangacounty.com/blog/can-nris-buy-plots-in-uttar-pradesh.html</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gangacounty.com/blog/garhmukuteshwar-distance-from-delhi-route-guide.html</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gangacounty.com/blog/garhmukuteshwar-plot-price-forecast-2026-2030.html</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gangacounty.com/blog/government-approved-plots-in-garhmukuteshwar.html</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gangacounty.com/blog/how-to-avoid-plot-fraud-in-garhmukuteshwar.html</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gangacounty.com/blog/plot-buying-documents-checklist-uttar-pradesh.html</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gangacounty.com/blog/renting-vs-buying-plot-garhmukuteshwar.html</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gangacounty.com/blog/stamp-duty-rebate-women-plots-uttar-pradesh.html</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gangacounty.com/blog/up-industrial-corridor-boosting-plot-prices-garhmukuteshwar.html</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
